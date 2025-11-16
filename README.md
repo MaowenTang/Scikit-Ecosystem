@@ -28,8 +28,6 @@ mindmap
       scikit-tda
 
 
-Here are the domains and the corresponding libraries within the ecosystem:
-
 * **((scikit-\* ecosystem))**
     * ### Core ML (Machine Learning)
         * `scikit-learn`: The classic general-purpose machine learning library.
