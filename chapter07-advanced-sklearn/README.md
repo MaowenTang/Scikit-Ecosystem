@@ -373,13 +373,6 @@ Use FastAPI or Flask to serve a scikit-learn Pipeline.
 
 If you want a continuation, possible directions are:
 
-### **📘 Chapter 8 — Hybrid Classical + Deep Learning Pipelines**
-
-* scikit-image preprocessing for PyTorch
-* Using CNN embeddings + scikit-learn classifiers
-* Mixing deep and non-deep models efficiently
-* High-level reusable templates
-
 ### **📘 Chapter 8 — Conformal Prediction for Reliable ML**
 
 * Prediction intervals
